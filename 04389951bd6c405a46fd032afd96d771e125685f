@@ -16,6 +16,23 @@
       "message": "- nombre: Caché\n  usos: acciones/cache@v4.1.2\n  con:\n    # Una lista de archivos, directorios y patrones comodín para almacenar en caché y restaurar\n    camino:\n    # Una clave explícita para restaurar y guardar el caché\n    llave:\n    # Una cadena de varias líneas ordenada que enumera las claves que coinciden con el prefijo y que se utilizan para restaurar la memoria caché obsoleta si no se produjo ningún acierto en la memoria caché para la clave. Tenga en cuenta que `cache-hit` devuelve falso en este caso.\n    restaurar-claves: # opcional\n    # El tamaño del fragmento utilizado para dividir archivos grandes durante la carga, en bytes\n    tamaño del fragmento de carga: # opcional\n    # Un valor booleano opcional, cuando está habilitado, permite que los ejecutores de Windows guarden o restauren cachés que se pueden restaurar o guardar respectivamente en otras plataformas\n    enableCrossOsArchive: # opcional, el valor predeterminado es falso\n    # Falla el flujo de trabajo si no se encuentra la entrada de caché\n    fail-on-cache-miss: # opcional, el valor predeterminado es falso\n    # Verificar si existe una entrada de caché para las entradas dadas (clave, claves de restauración) sin descargar el caché\n    solo búsqueda: # opcional, el valor predeterminado es falso\n    # Ejecute el paso posterior para guardar el caché incluso si falla otro paso anterior\n    save-always: # opcional, el valor predeterminado es falso",
       "revId": "04389951bd6c405a46fd032afd96d771e125685f",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0604612b_583f2347",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3732018
+      },
+      "writtenOn": "2024-11-19T10:11:41Z",
+      "side": 1,
+      "message": "S",
+      "revId": "04389951bd6c405a46fd032afd96d771e125685f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
