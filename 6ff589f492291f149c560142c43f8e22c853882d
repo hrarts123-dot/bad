@@ -50,6 +50,42 @@
       "message": "soeng.ll060@gmail.com",
       "revId": "6ff589f492291f149c560142c43f8e22c853882d",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bfcdfa29_ed2546b3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3262277
+      },
+      "writtenOn": "2025-01-07T19:58:10Z",
+      "side": 1,
+      "message": "soeng.ll060@gmail.com",
+      "parentUuid": "031ec9eb_094fc127",
+      "revId": "6ff589f492291f149c560142c43f8e22c853882d",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bd76ec85_ae59b19a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3262277
+      },
+      "writtenOn": "2025-01-07T19:58:10Z",
+      "side": 1,
+      "message": "https://android-review.googlesource.com/c/assets/android-studio-ux-assets/+/3416989/comments/87339f6a_e7f5d30e",
+      "parentUuid": "87339f6a_e7f5d30e",
+      "revId": "6ff589f492291f149c560142c43f8e22c853882d",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
